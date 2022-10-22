@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rachel
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on analyze data
+- 📫 How to reach me rachrolle@icloud.com
